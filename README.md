@@ -10,4 +10,5 @@ VBA (Visual Basic for Applications)是微软为 Office 套件开发的一套编�
 * [程序和变量](03.md)
 * [操作符](04.md)
 * [流程控制](05.md)
+* [子程序和函数](06.md)
 
